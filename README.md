@@ -1,6 +1,6 @@
 # Deep_Transfer
 
-Introduction
+##Introduction
     source code for paper https://link.springer.com/article/10.1007/s00521-018-3468-3
 
     Deep transfer learning for military object recognition under small training set condition
@@ -10,12 +10,12 @@ Introduction
     output_graph_new.pb is model file which is get only by training model with fully conneted layer 200 steps.
     output_labels_new.txt record the labels in our paper
  
- Train:
+##Train:
     our code is default for training fully conected layer, if you want train more layer, you can replace retrain.py by that in other layer,and then 
     
     CUDA_VISIBLE_DEVICES=0 python retrain.py
     
-Test:
+##Test:
     we make a sample visual interface for testing
     
     you can only 
