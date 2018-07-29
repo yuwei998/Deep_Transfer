@@ -23,13 +23,13 @@
     python ./open.py
     
     and you can see 
-    ![image](Deep_Transfer/ShowImage/image1.png)
+    ![image](https://github.com/yuwei998/Deep_Transfer/blob/master/ShowImage/image1.png)
     
     then click open image, chose an image for test
-    ![image](Deep_Transfer/ShowImage/image1.png)
+    ![image](https://github.com/yuwei998/Deep_Transfer/blob/master/ShowImage/image1.png)
     
     last,click test,you can get predict result
-    ![image](Deep_Transfer/ShowImage/image1.png)
+    ![image](https://github.com/yuwei998/Deep_Transfer/blob/master/ShowImage/image1.png)
     
     
     
