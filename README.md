@@ -22,4 +22,14 @@
     
     python ./open.py
     
+    and you can see 
+    https://github.com/yuwei998/Deep_Transfer/tree/master/ShowImage/image1.png
+    
+    than click open image, chose an image for test
+    https://github.com/yuwei998/Deep_Transfer/tree/master/ShowImage/image2.png
+    
+    last,click test,you can get predict result
+     https://github.com/yuwei998/Deep_Transfer/tree/master/ShowImage/iamge3.png
+    
+    
     
