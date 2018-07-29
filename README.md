@@ -23,13 +23,13 @@
     python ./open.py
     
     and you can see 
-    ![image](https://github.com/yuwei998/Deep_Transfer/tree/master/ShowImage/image1.png)
+    ![image](https://github.com/yuwei998/Deep_Transfer/blob/master/ShowImage/image1.png)
     
     than click open image, chose an image for test
-    ![image](https://github.com/yuwei998/Deep_Transfer/tree/master/ShowImage/image2.png)
+    ![image](https://github.com/yuwei998/Deep_Transfer/blob/master/ShowImage/image1.png)
     
     last,click test,you can get predict result
-    ![image](https://github.com/yuwei998/Deep_Transfer/tree/master/ShowImage/iamge3.png)
+    ![image](https://github.com/yuwei998/Deep_Transfer/blob/master/ShowImage/image1.png)
     
     
     
