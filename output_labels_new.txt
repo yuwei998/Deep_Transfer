@@ -1,0 +1,16 @@
+transportaircraft
+multibarrelrocketlauncher
+others
+mainbattletank
+gunship
+aircraftcarrier
+millitaryvehicle
+car
+cargoship
+frigate
+armoredcar
+truck
+fighterplane
+coach
+fishingboat
+civilavitation
