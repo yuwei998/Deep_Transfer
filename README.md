@@ -23,8 +23,7 @@
     python ./open.py
     
     and you can see 
-    ![image](./image1.png)
-    
+        
     then click open image, chose an image for test
     ![image](./image2.png)
     
