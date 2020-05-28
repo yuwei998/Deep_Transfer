@@ -29,7 +29,7 @@
     ![image](./image2.png)
     
     last,click test,you can get predict result
-    ![image](.e/image3.png)
+    ![image](./image3.png)
     
     
     
