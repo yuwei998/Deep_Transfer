@@ -24,7 +24,7 @@ python ./open.py
 
 and you can see 
 
-![image](./image2.png)
+![image](./image1.png)
 
 then click open image, chose an image for test
 
